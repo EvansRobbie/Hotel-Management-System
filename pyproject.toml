@@ -14,7 +14,8 @@ dependencies = [
     "shortuuid (>=1.0.13,<2.0.0)",
     "pillow (>=11.1.0,<12.0.0)",
     "django-taggit (>=6.1.0,<7.0.0)",
-    "django-jazzmin (>=3.0.1,<4.0.0)"
+    "django-jazzmin (>=3.0.1,<4.0.0)",
+    "djangorestframework (>=3.15.2,<4.0.0)"
 ]
 
 
