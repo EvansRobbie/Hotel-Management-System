@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'import_export',
     "taggit",
     'rest_framework',
+    'drf_yasg',
     # 'Pillow',
     'shortuuid'
 ]
